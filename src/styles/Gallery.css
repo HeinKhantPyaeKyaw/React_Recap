@@ -1,0 +1,10 @@
+ul{
+    list-style-type: none;
+}
+.Gallery li:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
+.Gallery{
+    margin: 20px;
+}

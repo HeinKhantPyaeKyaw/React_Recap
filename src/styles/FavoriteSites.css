@@ -1,0 +1,14 @@
+#links{
+    list-style-type: none;
+    color: lightgreen;
+}
+h2,ul{
+    margin: 20px;
+}
+
+a:visited{
+    color:lightgreen;
+}
+a:hover{
+    color: red;
+}
