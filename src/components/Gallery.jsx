@@ -8,13 +8,13 @@ function Gallery(){
         </h2>
         <ul>
             <li>
-            <img width={200} src="././public/assets/pic.jpg" />
+            <img width={200} src="assets/pic.jpg" />
             </li>
             <li>
-            <img width={200} src="././public/assets/pic.jpg" />
+            <img width={200} src="assets/pic.jpg" />
             </li>
             <li>
-            <img width={200} src="././public/assets/pic.jpg" />
+            <img width={200} src="assets/pic.jpg" />
             </li>
         </ul>
         
